@@ -1,0 +1,4 @@
+Brage's rounds: 7,5 7,5 7,5 15,8 15,8 15,8 15,8 15,8 15,8 15,8 15,8 
+Your handicap-counting rounds are: [7,5, 7,5, 7,5, 15,8, 15,8, 15,8, 15,8, 15,8]
+Amount of rounds played: 11
+Current handicap: 12,7
