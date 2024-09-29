@@ -1,4 +1,4 @@
-package mittprosjekt;
+package golfhandicaptracker;
 
 public class Courseinfo {
     private final int courseSlope;

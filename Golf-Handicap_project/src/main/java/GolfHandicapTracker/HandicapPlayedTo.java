@@ -1,4 +1,4 @@
-package mittprosjekt;
+package golfhandicaptracker;
 
 import java.text.DecimalFormat;
 import java.util.HashMap;
@@ -112,27 +112,7 @@ public class HandicapPlayedTo implements RegisterLocalScore{
 
 
 
-// registrerer personene sine scorer til golfbox
-//public void registerToGolfbox(List<String> golfplayers, List<Double> golfplayers_scores){
-  //  if(golfplayers.size()>4 || golfplayers.size()<0){
-    //    for (int i = 0; i < golfplayers.size(); i++){
-     //       if (!formerRounds.containsKey(golfplayers.get(i))){
-       //         formerRounds.put(golfplayers.get(i), new ArrayList<String>());
-         //   }
-           // HandicapPlayedTo.formerRounds.get(golfplayers.get(i)).add(Double.toString(golfplayers_scores.get(i)));
-        //}
-    //}
-    //throw new IllegalArgumentException("Mellom 1 og 4 spillere i en flight");
-//}
 
-//public void addToPlayersFormerRounds(String name, String formattedResult){
-  //  if (!formerRounds.containsKey(name)){
-    //    formerRounds.put(name, formattedResult);
-    //}
-    //else{
-      //  formerRounds.get(name).add(formattedResult);
-    //}
-    
 
 
 

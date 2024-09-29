@@ -1,4 +1,4 @@
-package mittprosjekt;
+package golfhandicaptracker;
 
 import java.util.ArrayList;
 import java.util.Comparator;
